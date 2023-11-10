@@ -62,7 +62,7 @@
     </tr>
   </table>
 
-  To sumbit the solutions use this command:
+  To submit the solutions use this command:
   ```
 
     "submit <solution>"
