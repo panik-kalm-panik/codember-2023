@@ -1,6 +1,7 @@
 <img style="width: 100%;" src="https://github.com/panik-kalm-panik/codember-2023/assets/30728714/97ee8ea5-7b49-4971-81e0-2186e53dea32">
 
 ![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&labelColor=black)
+![Static Badge](https://img.shields.io/badge/rust-f84c04?style=for-the-badge&logo=rust&logoColor=f84c04&labelColor=black)
 ## Challenges 🥇
 <table>
   <tr>
@@ -11,7 +12,12 @@
   <tr>
     <td>Challenge #1</td>
     <td>Encrypted message</td>
-    <td><a href="challenge_01/">Solution</td>
+    <td><a href="challenge_01/">Python</td>
+  </tr>
+  <tr>
+    <td>Challenge #2</td>
+    <td>Mini compiler</td>
+    <td><a href="challenge_02/">Rust</td>
   </tr>
 </table>
       
@@ -36,6 +42,18 @@
       <td>Secret #3</td>
       <td>CEO of Vercel</td>
     </tr>
+    <tr>
+      <td>Secret #4</td>
+      <td>You sure like parties</td>
+    </tr>
+    <tr>
+      <td>Secret #5</td>
+      <td>Check your mail, again</td>
+    </tr>
+    <tr>
+      <td>Secret #6</td>
+      <td>Magic word</td>
+    </tr>
   </table>
   <br>
 </details>
@@ -59,6 +77,18 @@
     <tr>
       <td>Secret #3</td>
       <td>Rauch</td>
+    </tr>
+    <tr>
+      <td>Secret #4</td>
+      <td>Confetti</td>
+    </tr>
+    <tr>
+      <td>Secret #5</td>
+      <td>Html</td>
+    </tr>
+    <tr>
+      <td>Secret #6</td>
+      <td>Itsmagic</td>
     </tr>
   </table>
 
