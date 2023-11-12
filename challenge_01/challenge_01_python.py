@@ -1,9 +1,8 @@
-
 string_read = ""
 words_array = []
 result_string = ""
 
-with open("challenge_01/message_01.txt") as message:
+with open("message_01.txt") as message:
     string_read = (message.read())
 
 words_array = string_read.split()

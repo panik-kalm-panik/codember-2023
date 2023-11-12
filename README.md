@@ -2,22 +2,29 @@
 
 ![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/rust-f84c04?style=for-the-badge&logo=rust&logoColor=f84c04&labelColor=black)
+![Static Badge](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=black)
 ## Challenges 🥇
 <table>
   <tr>
     <th>Number</th>
     <th>Name</th>
-    <th>Solution</th>
+    <th>🐍</th>
+    <th>🦀</th>
+    <th>🐘</th>
   </tr>
   <tr>
-    <td>Challenge #1</td>
+    <td><a href="challenge_01/">Challenge #1</td>
     <td>Encrypted message</td>
-    <td><a href="challenge_01/">Python</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
   </tr>
   <tr>
-    <td>Challenge #2</td>
+    <td><a href="challenge_02/">Challenge #2</td>
     <td>Mini compiler</td>
-    <td><a href="challenge_02/">Rust</td>
+    <td>✅</td>
+    <td>✅</td>
+    <td>✅</td>
   </tr>
 </table>
       
