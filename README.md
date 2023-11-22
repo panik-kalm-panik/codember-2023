@@ -26,7 +26,21 @@
     <td>✅</td>
     <td>✅</td>
   </tr>
+  <tr>
+    <td><a href="challenge_03/">Challenge #3</td>
+    <td>Encryption policies</td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
+  </tr>
 </table>
+
+  To submit the solutions use this command:
+  ```
+
+    "submit <solution>"
+
+  ```
       
 ## Secrets 🔒
 <details>
@@ -60,6 +74,18 @@
     <tr>
       <td>Secret #6</td>
       <td>Magic word</td>
+    </tr>
+    <tr>
+      <td>Secret #7</td>
+      <td>Famous chrome easter egg</td>
+    </tr>
+    <tr>
+      <td>Secret #8</td>
+      <td>Space log</td>
+    </tr>
+    <tr>
+      <td>Secret #9</td>
+      <td>OpenAI Ex-CEO</td>
     </tr>
   </table>
   <br>
@@ -97,13 +123,17 @@
       <td>Secret #6</td>
       <td>Itsmagic</td>
     </tr>
+    <tr>
+      <td>Secret #7</td>
+      <td>Do a barrell roll</td>
+    </tr>
+    <tr>
+      <td>Secret #8</td>
+      <td>Majortom</td>
+    </tr>
+    <tr>
+      <td>Secret #9</td>
+      <td>Altman</td>
+    </tr>
   </table>
-
-  To submit the solutions use this command:
-  ```
-
-    "submit <solution>"
-
-  ```
-  <br>
 </details>
