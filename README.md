@@ -35,13 +35,6 @@
   </tr>
 </table>
 
-  To submit the solutions use this command:
-  ```
-
-    "submit <solution>"
-
-  ```
-      
 ## Secrets 🔒
 <details>
   <summary>Hints 💡</summary>
