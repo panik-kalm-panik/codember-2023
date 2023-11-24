@@ -31,7 +31,7 @@
     <td>Encryption policies</td>
     <td>✅</td>
     <td>❌</td>
-    <td>❌</td>
+    <td>✅</td>
   </tr>
 </table>
 
